@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: '/home/jon/Documentos/Tutoriales/Coursera/Startup/Week 1/sf23/app/config/routing_dev.yml'
